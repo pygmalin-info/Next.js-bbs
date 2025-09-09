@@ -40,7 +40,7 @@
 5.サーバーコンポーネントを使ったCRUD
 - Next.jsでのフルスタック学習
 
-6.データベース（[こちら](https://github.com/pygmalin-info/MySQL-Sample)のリポジトリの **〇〇**ブランチを使用して下さい。）
+6.データベース（[こちら](https://github.com/pygmalin-info/MySQL-Sample)のリポジトリの **nextjs-bbs**ブランチを使用して下さい。）
 - MySQL
 
 ## 進め方のポイント
