@@ -39,6 +39,7 @@
 
 5.サーバーコンポーネントを使ったCRUD
 - Next.jsでのフルスタック学習
+
 6.データベース
 - PostgreSQL
 - Prisma
